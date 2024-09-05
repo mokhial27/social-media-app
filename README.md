@@ -15,7 +15,7 @@ This repository contains the backend API for a social networking application. Th
 
 - Node.js
 - Express.js
-- MongoDB with Mongoose
+- mysql
 - JWT for authentication
 - bcrypt for password hashing
 
